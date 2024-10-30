@@ -1,0 +1,14 @@
+# Ignore everything.
+**
+
+# Allow files.
+!/.python-version
+!/LICENSE
+!/poetry.lock
+!/pyproject.toml
+!/README.md
+
+# Allow directories.
+!/packaging/**
+!/snap/**
+!/src/**
